@@ -37,8 +37,8 @@ From now on, I'm going to assume that you are going to be printing in PLA+ or eq
 7. Insert the crosspin. It will take a little bit more force than the rest of the build to proerly insert, but not by much. Feel free to superglue/Loctite/Rockset this part of the build, but the crosspin will remain in postion during normal operation.
 8. Function test, make sure that you can extend the butt all the way out and that the button allows you to disengage the locking mechanism. Make sure its all smooth and to your liking.
 9. OK, NOW you can disassemble your PS90, all the way to the point where you remove your butttstock. If you dont know how to disassebmle your PS90, read the manual for your PS90 to learn its disassembly.
-10. Extend the Pad all the way from the body. Slide the dovetail of the telescoping body into the place where the old buttpad was. There may need to be some sanding done to get a proper fit, but that way the butt isnt sloppy or too weak to handle mismanagement.
-11. Function test again: Repeat step 9 but with the butt attached.
+10. Extend the telescoping pad all the way from the telecoping body. Slide the dovetail of the telescoping body into the place where the old buttpad was. There may need to be some sanding done to get a proper fit, but that way the butt isnt sloppy or too weak to handle mismanagement.
+11. Function test again: Repeat step 8 but with the butt attached.
 12. Done! Feel free to rubberize the pad itself for better interface with the body.
 
 # Use Guidelines
