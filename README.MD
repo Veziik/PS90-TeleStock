@@ -1,3 +1,6 @@
+# Disclaimer
+It is the user's responsibility to know their local laws before attempting to use these files. Nobody is responsible for violaion of local laws other than the user of these files.
+
 # License Requirements
 All the files in this repository (Veziik/PS90-TeleStock) are licensed under the GNU General Public License v3.0. As per the license, any modification or commercial use of this code needs to reference the git repository, in order to do so, simply include a physical copy of the README with any PS90s sold with this stock attached. For the original files and updates to this design, visit [https://github.com/Veziik/PS90-TeleStock](https://github.com/Veziik/PS90-TeleStock). 
 
@@ -7,9 +10,9 @@ From now on, I'm going to assume that you are going to be printing in PLA+ or eq
 
 1. Go into the STL files and select either the low profile version or the standard version
 
-2. Print the following files on your printer of choice at 70& infill:
+2. Print the following files on your printer of choice at 70% infill (I used gyroid infill):
     - LockingAssemblyMainTelescopingBody.stl (print this upside down, with the button hole facing up, with supports)
-    - telescopingArrayTelescopingPad.stl (print this sideways, the hole for the crosspin facing up)
+    - telescopingArrayTelescopingPad.stl (print this sideways, the hole for the crosspin facing up, with supports)
 
 3. Print the following files on your printer of choice at 100% infill:
     - telescopingArrayPadCrosspin.stl (Orient this so that the beveled edge is facing up)
