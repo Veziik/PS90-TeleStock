@@ -4,22 +4,21 @@ All the files in this repository (Veziik/PS90-TeleStock) are licensed under the 
 # Printing Instructions
 From now on, I'm going to assume that you are going to be printing in PLA+ or equivalent and already have the settings dialed in on your filament. In my case, I was using [Polymaker 3D Printer PLA+ Filament 1.75mm](https://smile.amazon.com/dp/B097SVHDR5/ref=twister_B09MBYF326?_encoding=UTF8&th=1) with a nozzle temperatuire of 210°C and a bed temperature of 60°C. Assume that you don't need supports until otherwise specified.
 
-1. Print the following files on your printer of choice at 70& infill:
-    - TelescoptingButtExtension-LockingAssemblyMainTelescopingBody.stl (print this upside down, with the button hole facing up, with supports)
-    - TelescoptingButtExtension-telescopingArrayTelescopingPad.stl (print this sideways, the hole for the crosspin facing up)
 
-2. Print the following files on your printer of choice at 100% infill:
-    - TelescoptingButtExtension-telescopingArrayPadCrosspin.stl (orient this so that the beveled edge is facing up)
-    - TelescoptingButtExtension-LockingAssemblyLockingButton.stl (Print this sideways, with the channel for the locking pin oriented vertically).
-    - TelescoptingButtExtension-LockingAssemblyLockingPin.stl
+1. Go into the STL files and select either the low profile version or the standard version
+
+2. Print the following files on your printer of choice at 70& infill:
+    - LockingAssemblyMainTelescopingBody.stl (print this upside down, with the button hole facing up, with supports)
+    - telescopingArrayTelescopingPad.stl (print this sideways, the hole for the crosspin facing up)
+
+3. Print the following files on your printer of choice at 100% infill:
+    - telescopingArrayPadCrosspin.stl (Orient this so that the beveled edge is facing up)
+    - LockingAssemblyLockingButton.stl (Print this sideways, with the channel for the locking pin oriented vertically).
+    - LockingAssemblyLockingPin.stl
         
-3. Print either set A or B below at 100% infill. Set A is objectively stronger, set B is lower profile and sleeker. For all of these files in either set, orient them so that their flatest side is touching the build plate.
-    - Set A
-      - TelescoptingButtExtension-telescopingArrayLeftTelescopingBar.stl
-      - TelescoptingButtExtension-telescopingArrayRightTelescopingBar.stl
-    - Set B
-      - TelescoptingButtExtensionLowProfile-telescopingArrayLeftTelescopingBar.stl
-      - TelescoptingButtExtensionLowProfile-telescopingArrayRightTelescopingBar.stl
+4. Print the following files on your printer of choice at 100% infill, orient them so that their flatest side is touching the build plate.
+    - telescopingArrayLeftTelescopingBar.stl
+    - telescopingArrayRightTelescopingBar.stl
 
 # Assembly Instructions
 ## Required Parts:
