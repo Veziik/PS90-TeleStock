@@ -1,3 +1,6 @@
+# Disclaimer
+It is the sole responsibility of the user of these files and resulting prints to abide and obey any and all local laws surrounding minimum length requirements and/or the legality of telescoping stocks. Do NOT use these files if you reside in an area which would prohibit you from legally possessing a telescoping stock. Information is free, but possession is another story entirely
+
 # License Requirements
 All the files in this repository (Veziik/PS90-TeleStock) are licensed under the GNU General Public License v3.0. As per the license, any modification or commercial use of this code needs to reference the git repository, in order to do so, simply include a physical copy of the README with any PS90s sold with this stock attached. For the original files and updates to this design, visit [https://github.com/Veziik/PS90-TeleStock](https://github.com/Veziik/PS90-TeleStock). 
 
