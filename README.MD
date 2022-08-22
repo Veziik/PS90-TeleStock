@@ -10,7 +10,7 @@ From now on, I'm going to assume that you are going to be printing in PLA+ or eq
 
 1. Go into the STL files and select either the low profile version, standard version, or I beam version.
 
-2. Print the following files on your printer of choice at 70& infill:
+2. Print the following files on your printer of choice at 70% infill:
     - LockingAssemblyMainTelescopingBody.stl (print this upside down, with the button hole facing up, with supports)
     - telescopingArrayTelescopingPad.stl (print this sideways, the hole for the crosspin facing up)
 
