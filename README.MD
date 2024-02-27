@@ -5,23 +5,24 @@ It is the user's responsibility to know their local laws before attempting to us
 All the files in this repository (Veziik/PS90-TeleStock) are licensed under the GNU General Public License v3.0. As per the license, any modification or commercial use of this code needs to reference the git repository, in order to do so, simply include a physical copy of the README with any PS90s sold with this stock attached. For the original files and updates to this design, visit [https://github.com/Veziik/PS90-TeleStock](https://github.com/Veziik/PS90-TeleStock). 
 
 # Printing Instructions
-From now on, I'm going to assume that you are going to be printing in PLA+ or equivalent and already have the settings dialed in on your filament. In my case, I was using [Polymaker 3D Printer PLA+ Filament 1.75mm](https://smile.amazon.com/dp/B097SVHDR5/ref=twister_B09MBYF326?_encoding=UTF8&th=1) with a nozzle temperatuire of 210°C and a bed temperature of 60°C. Assume that you don't need supports until otherwise specified.
+ - From now on, I'm going to assume that you are going to be printing in PLA+ or equivalent and already have the settings dialed in on your filament. In my case, I was using [Polymaker 3D Printer PLA+ Filament 1.75mm](https://smile.amazon.com/dp/B097SVHDR5/ref=twister_B09MBYF326?_encoding=UTF8&th=1) with a nozzle temperatuire of 210°C and a bed temperature of 60°C. Assume that you don't need supports until otherwise specified.
+ - For the Metal Arm Version, you'll need to either CNC or mannually machine the arms and/or pins  
 
 
 1. Go into the STL files and select either the low profile version, standard version, or I beam version.
 
 2. Print the following files on your printer of choice at 70% infill (I used gyroid infill):
-    - LockingAssemblyMainTelescopingBody.stl (print this upside down, with the button hole facing up, with supports)
-    - telescopingArrayTelescopingPad.stl (print this sideways, the hole for the crosspin facing up, with supports)
+    - MainTelescopingBody.stl (print this upside down with the button hole facing up and leaning 45 degrees in the direction of the dovetail, with supports)
+    - TelescopingPad.stl (print this sideways, the hole for the crosspin facing up, with supports)
 
 3. Print the following files on your printer of choice at 100% infill:
-    - telescopingArrayPadCrosspin.stl (Orient this so that the beveled edge is facing up)
-    - LockingAssemblyLockingButton.stl (Print this sideways, with the channel for the locking pin oriented vertically).
-    - LockingAssemblyLockingPin.stl
+    - PadCrosspin.stl (Orient this so that the beveled edge is facing up)
+    - LockingButton.stl (Print this sideways, with the channel for the locking pin oriented vertically).
+    - LockingPin.stl
         
 4. Print the following files on your printer of choice at 100% infill, orient them so that their flatest side is touching the build plate.
-    - telescopingArrayLeftTelescopingBar.stl
-    - telescopingArrayRightTelescopingBar.stl
+    - LeftTelescopingBar.stl
+    - RightTelescopingBar.stl
 
 # Assembly Instructions
 ## Required Parts:
