@@ -6,7 +6,7 @@ All the files in this repository (Veziik/PS90-TeleStock) are licensed under the 
 
 # Printing Instructions
  - From now on, I'm going to assume that you are going to be printing in PLA+ or equivalent and already have the settings dialed in on your filament. In my case, I was using [Polymaker 3D Printer PLA+ Filament 1.75mm](https://smile.amazon.com/dp/B097SVHDR5/ref=twister_B09MBYF326?_encoding=UTF8&th=1) with a nozzle temperatuire of 210°C and a bed temperature of 60°C. Assume that you don't need supports until otherwise specified.
- - For the Metal Arm Version, you'll need to either CNC or mannually machine the arms and/or pins  
+ - For the Metal Arm Version, you'll need to either CNC or manually machine the arms and/or pins  
 
 
 1. Go into the STL files and select either the low profile version, standard version, or I beam version.
