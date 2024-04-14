@@ -9,7 +9,7 @@ All the files in this repository (Veziik/PS90-TeleStock) are licensed under the 
  - For the Metal Arm Version, you'll need to either CNC or manually machine the arms and/or pins  
 
 
-1. Go into the STL files and select either the low profile version, standard version, or I beam version.
+1. Go into the STL - STEP - PDF Files\Telescoping - Plastic Arms folder.
 
 2. Print the following files on your printer of choice at 70% infill (I used gyroid infill):
     - MainTelescopingBody.stl (print this upside down with the button hole facing up and leaning 45 degrees in the direction of the dovetail, with supports)
@@ -20,7 +20,7 @@ All the files in this repository (Veziik/PS90-TeleStock) are licensed under the 
     - LockingButton.stl (Print this sideways, with the channel for the locking pin oriented vertically).
     - LockingPin.stl
         
-4. Print the following files on your printer of choice at 100% infill, orient them so that their flatest side is touching the build plate.
+4. Pick one of the three folders: I-Beam Arms, Low Profile Arms, or Standard Arms. Print the following files on your printer of choice at 100% infill, orient them so that their flatest side is touching the build plate.
     - LeftTelescopingBar.stl
     - RightTelescopingBar.stl
 
